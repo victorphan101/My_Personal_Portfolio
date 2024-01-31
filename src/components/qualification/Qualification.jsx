@@ -73,8 +73,8 @@ const Qualification = () => {
                             <span className="qualification__line"></span>
                         </div>
                         <div>
-                            <h3 className="qualification__title">Week of Welcome Leader</h3>
-                            <span className="qualification__subtitle">Cal Poly University Housing</span>
+                            <h3 className="qualification__title">Week of Welcome Orientation Leader</h3>
+                            <span className="qualification__subtitle">Cal Poly New Student & Transition Program </span>
                             <div className="qualification__calendar">
                                 <i className="uil uil-calendar-alt"></i>May 2022 - September 2022
                             </div>
