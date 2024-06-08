@@ -9,8 +9,26 @@ import UVSA_Tet from '../../assets/uvsa_tet.jpg';
 import UVSA_Camp from '../../assets/uvsa__camp.jpg';
 import Committee__Head from '../../assets/pcw_com_head.jpg';
 import WOW from '../../assets/wow__leader.jpg';
+import LAEP from '../../assets/LAEP.png';
+import CSC309 from '../../assets/MyInventory.png'
 
 export const projectsData = [
+    {
+        id: 1,
+        image: LAEP,
+        title: 'LAEP Research Assistant',
+        company: 'Cal Poly Computer Science and Software Engineering Department',
+        category: 'work',
+        link: "https://github.com/Castro19/LAEP-GPT"
+    },
+    {
+        id: 1,
+        image: CSC309,
+        title: 'My Inventory - Immaculate Inventors',
+        company: 'Cal Poly Computer Science and Software Engineering Department',
+        category: 'project',
+        link: "https://github.com/Luke7787/ImmaculateInventors"
+    },
     {
         id: 1,
         image: ASI,
@@ -62,7 +80,7 @@ export const projectsData = [
     {
         id: 7,
         image: TVSA__Internal,
-        title: 'Internal Vice President',
+        title: 'Internal and External Vice President and Inter-Collegiate Council',
         company: 'Thai Vietnamese Student Association',
         category: 'volunteer',
         link:'https://www.instagram.com/calpolytvsa/'

@@ -1,5 +1,8 @@
 .home__container{
     row-gap: 7rem;
+    border-radius: 5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
 }
 
 .home__content{
