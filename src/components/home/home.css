@@ -28,8 +28,29 @@
 }
 
 .home__title{
+    display: inline;
     font-size: var(--big-font-size);
     margin-bottom: var(--mb-0-25);
+}
+
+.home__title:hover span{
+    display: none;
+}
+
+.home__title:hover:after{
+    transition: smooth 1s;
+    animation-duration: 1s;
+    animation-name: slidein;
+    content:"PrimeTime";
+}
+
+@keyframes slidein{
+    from{
+        margin-left:-10%;
+    }
+    to{
+        margin-left:0%;
+    }
 }
 
 .home__subtitle{
