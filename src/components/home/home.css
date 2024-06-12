@@ -12,6 +12,10 @@
     align-items: center;
 }
 
+.home__data{
+    width: 450px;
+}
+
 .home__social{
     display: grid;
     grid-template-columns: max-content;
@@ -46,7 +50,7 @@
 
 @keyframes slidein{
     from{
-        margin-left:-10%;
+        margin-left:-5%;
     }
     to{
         margin-left:0%;
