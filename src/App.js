@@ -7,7 +7,8 @@ import Qualification from './components/qualification/Qualification';
 import Footer from './components/footer/Footer';
 import Work from './components/work/Work'
 import Contact from './components/contact/Contact'
-
+//import {Routes, Route } from 'react-router-dom';
+//import TVSA from "./pages/work/TVSA.jsx";
 
 function App() {
   return (
@@ -19,6 +20,8 @@ function App() {
         <Skills/>
         <Qualification />
         <Work />
+
+        
         <Contact />
         <Footer />
       </main>
@@ -27,3 +30,11 @@ function App() {
 }
 
 export default App;
+
+
+/**
+ * <Routes>
+          <Route path='/' element={<Home />} />
+          <Route path='tvsa' element={<TVSA />} />
+        </Routes>
+ */

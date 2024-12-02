@@ -16,7 +16,7 @@ const Info = () => {
         </div>
 
         <div className="about__box">
-            <i class='bx bx-list-check about__icon'></i>
+            <i className='bx bx-list-check about__icon'></i>
             <h3 className="about__title">Interest</h3>
             <span className="about__subtitle">Social Services Applications, Data Analytics, Sports Management</span>
         </div>

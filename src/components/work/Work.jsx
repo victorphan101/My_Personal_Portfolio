@@ -9,6 +9,8 @@ const Work = () => {
         <span className="section__subtitle">Most recent work experience</span>
 
         <Works/>
+
+        <h2 className="temp__comment">**Note: Portfolio 'Check it out' pages are still in progress**</h2>
     </section>
   )
 }

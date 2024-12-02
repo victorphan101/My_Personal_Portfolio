@@ -66,13 +66,66 @@ const Qualification = () => {
                             <h3 className="qualification__title">LAEP Research Assistant</h3>
                             <span className="qualification__subtitle">Cal Poly CS and SE Department</span>
                             <div className="qualification__calendar">
-                                <i className="uil uil-calendar-alt"></i>Feb 2024 - Present
+                                <i className="uil uil-calendar-alt"></i>Feb 2024 - Aug 2024
                             </div>
                         </div>
 
                         <div>
                             <span className="qualification__rounder"></span>
                             <span className="qualification__line"></span>
+                        </div>
+
+                        
+                    </div>
+
+                    <div className="qualification__data">
+                        <div></div>
+
+                        <div>
+                            <span className="qualification__rounder"></span>
+                            <span className="qualification__line"></span>
+                        </div>
+                        <div>
+                            <h3 className="qualification__title">Information Technology Coordinator</h3>
+                            <span className="qualification__subtitle">Union of Vietnamese Student Association </span>
+                            <div className="qualification__calendar">
+                                <i className="uil uil-calendar-alt"></i>July 2024 - Present
+                            </div>
+                        </div>
+
+                        
+                    </div>
+
+                    <div className="qualification__data">
+                        <div>
+                            <h3 className="qualification__title">Information Technology Cabinet Staff</h3>
+                            <span className="qualification__subtitle">Union of North American Vietnamese Student Association</span>
+                            <div className="qualification__calendar">
+                                <i className="uil uil-calendar-alt"></i>October 2024 - Present
+                            </div>
+                        </div>
+
+                        <div>
+                            <span className="qualification__rounder"></span>
+                            <span className="qualification__line"></span>
+                        </div>
+
+                        
+                    </div>
+
+                    <div className="qualification__data">
+                        <div></div>
+
+                        <div>
+                            <span className="qualification__rounder"></span>
+                            <span className="qualification__line"></span>
+                        </div>
+                        <div>
+                            <h3 className="qualification__title">Administrative Coordinator</h3>
+                            <span className="qualification__subtitle">Union of Vietnamese Student Association </span>
+                            <div className="qualification__calendar">
+                                <i className="uil uil-calendar-alt"></i>November 2024 - Present
+                            </div>
                         </div>
 
                         
@@ -172,7 +225,7 @@ const Qualification = () => {
 
                     <div className="qualification__data">
                         <div>
-                            <h3 className="qualification__title">External Vice President and Inter-Collegiate Council</h3>
+                            <h3 className="qualification__title">External Vice President</h3>
                             <span className="qualification__subtitle">Thai Vietnamese Student Association</span>
                             <div className="qualification__calendar">
                                 <i className="uil uil-calendar-alt"></i>March 2024 - Present
@@ -182,6 +235,59 @@ const Qualification = () => {
                         <div>
                             <span className="qualification__rounder"></span>
                             <span className="qualification__line"></span>
+                        </div>
+
+                        
+                    </div>
+
+                    <div className="qualification__data">
+                        <div></div>
+
+                        <div>
+                            <span className="qualification__rounder"></span>
+                            <span className="qualification__line"></span>
+                        </div>
+                        <div>
+                            <h3 className="qualification__title">Intercollegiate Council Representative</h3>
+                            <span className="qualification__subtitle">Union of Vietnamese Student Association</span>
+                            <div className="qualification__calendar">
+                                <i className="uil uil-calendar-alt"></i>June 2024 - Present
+                            </div>
+                        </div>
+
+                        
+                    </div>
+
+                    <div className="qualification__data">
+                        <div>
+                            <h3 className="qualification__title">Programming Staff for Project LEAD Camp</h3>
+                            <span className="qualification__subtitle">Union fo Vietnamese Student Association</span>
+                            <div className="qualification__calendar">
+                                <i className="uil uil-calendar-alt"></i>May 2024 - September 2024
+                            </div>
+                        </div>
+
+                        <div>
+                            <span className="qualification__rounder"></span>
+                            <span className="qualification__line"></span>
+                        </div>
+
+                        
+                    </div>
+
+                    <div className="qualification__data">
+                        <div></div>
+
+                        <div>
+                            <span className="qualification__rounder"></span>
+                            <span className="qualification__line"></span>
+                        </div>
+                        <div>
+                            <h3 className="qualification__title">Operations Committee Staff for Tet Festival</h3>
+                            <span className="qualification__subtitle">Union of Vietnamese Student Association</span>
+                            <div className="qualification__calendar">
+                                <i className="uil uil-calendar-alt"></i>October 2024 - Present
+                            </div>
                         </div>
 
                         
