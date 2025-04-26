@@ -57,8 +57,8 @@ const Other = () => {
                 <i className="bx bx-badge-check"></i>
 
                 <div>
-                    <h3 className="skills__name">SCADA/MES</h3>
-                    <span className="skills__level">Basic</span>
+                    <h3 className="skills__name">Tableau</h3>
+                    <span className="skills__level">Advanced</span>
                 </div>
                 </div>
             </div>

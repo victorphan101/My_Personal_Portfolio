@@ -99,7 +99,7 @@ export const projectsData = [
         title: 'Internal and External Vice President and Inter-Collegiate Council',
         company: 'Thai Vietnamese Student Association',
         category: 'volunteer',
-        link:'tvsa'
+        link:'/tvsa'
     },
     {
         id: 10,
